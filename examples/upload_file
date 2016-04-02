@@ -1,0 +1,1 @@
+http --verify no PUT $ENDPOINT/picture.jpg $AUTH "Accept:*/*" < picture.jpg
