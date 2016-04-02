@@ -1,0 +1,2 @@
+http --verify no --verbose GET $ENDPOINT/file $AUTH $VERSION $ACCEPT_OBJECT
+
