@@ -1,2 +1,1 @@
-http --verify no --verbose GET $ENDPOINT/file $AUTH $VERSION $ACCEPT_OBJECT
-
+curl -k -H $AUTH -H $VERSION -H $ACCEPT_OBJECT -X GET $ENDPOINT/file

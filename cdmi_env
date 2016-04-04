@@ -5,15 +5,16 @@ ENDPOINT=https://ldutka.onedata.indigo-datacloud.eu:8443/cdmi
 # ENDPOINT=https://p-upv.onedata.indigo-datacloud.eu:8443/cdmi
 
 # authorization token
-AUTH=X-Auth-Token:MDAxNWxvY2F0aW9uIG9uZXpvbmUKMDAzYmlkZW50aWZpZXIgdms1Y0ViY1RVMHBOWGxFOHB0QllHVmc1VXFVcm4xdl9mUDRHNUNWMWZOZwowMDFhY2lkIHRpbWUgPCAxNDkxMTYyNDI1CjAwMmZzaWduYXR1cmUgjtlwM8aI61eoP6IFapWlDPxQfTUyHTPpTnP7eQYxLskK
+AUTH="X-Auth-Token: <TOKEN>"
 
 # api version
-VERSION=X-CDMI-Specification-Version:1.1.1
+VERSION="X-CDMI-Specification-Version: 1.1.1"
 
 # accept headers
-ACCEPT_OBJECT=Accept:application/cdmi-object
-ACCEPT_CONTAINER=Accept:application/cdmi-container
+ACCEPT_ALL=""Accept: */*""
+ACCEPT_OBJECT="Accept: application/cdmi-object"
+ACCEPT_CONTAINER="Accept: application/cdmi-container"
 
 # content-type headers
-OBJECT=Content-Type:application/cdmi-object
-CONTAINER=Content-Type:application/cdmi-container
+OBJECT="Content-Type: application/cdmi-object"
+CONTAINER="Content-Type: application/cdmi-container"

@@ -1,1 +1,1 @@
-http --verify no --verbose PUT $ENDPOINT/new_file $AUTH $VERSION $OBJECT $ACCEPT_OBJECT value="content"
+curl -k -H $AUTH -H $VERSION -H $OBJECT -H $ACCEPT_OBJECT -X PUT -d '{"value":"file content"}' $ENDPOINT/new_file value="content"
