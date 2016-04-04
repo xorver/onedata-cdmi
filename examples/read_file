@@ -1,1 +1,1 @@
-curl -k -H $AUTH -H $VERSION -H $ACCEPT_OBJECT -X GET $ENDPOINT/file
+curl -k --tlsv1.2 -H $AUTH -H $VERSION -H $ACCEPT_OBJECT -X GET $ENDPOINT/new_file

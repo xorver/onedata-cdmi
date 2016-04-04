@@ -11,7 +11,7 @@ AUTH="X-Auth-Token: <TOKEN>"
 VERSION="X-CDMI-Specification-Version: 1.1.1"
 
 # accept headers
-ACCEPT_ALL=""Accept: */*""
+ACCEPT_ALL="Accept: */*"
 ACCEPT_OBJECT="Accept: application/cdmi-object"
 ACCEPT_CONTAINER="Accept: application/cdmi-container"
 
