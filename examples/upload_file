@@ -1,1 +1,0 @@
-curl -k --tlsv1.2 -H $AUTH -H $ACCEPT_ALL -T ./picture.jpg -X PUT $ENDPOINT/picture.jpg
