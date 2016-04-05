@@ -1,1 +1,1 @@
-curl -k --tlsv1.2 -H $AUTH -H $VERSION -H $OBJECT -H $ACCEPT_OBJECT -X PUT -d '{"value":"file content"}' $ENDPOINT/new_file value="content"
+curl -k --tlsv1.2 -H $AUTH -H $VERSION -H $OBJECT -H $ACCEPT_OBJECT -X PUT -d '{"value":"file content"}' $ENDPOINT/new_file
