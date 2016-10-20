@@ -1,4 +1,4 @@
-export ENDPOINT=https://p-lab.onedata.org:8443/cdmi
-export ENDPOINT2=https://p-cyfro.onedata.org:8443/cdmi
+export ENDPOINT=https://p-lab.onedata.org:8443
+export ENDPOINT2=https://p-cyfro.onedata.org:8443
 
 export TOKEN=MDAxNWxvY2F0aW9uIG9uZXpvbmUKMDAzYmlkZW50aWZpZXIgRFJERVpHa3BBOUlsT1JzdEE2aVpHMm9TdmhiV0tPX3dSRElKeXllekJvdwowMDFhY2lkIHRpbWUgPCAxNDk1MTI4OTUxCjAwMmZzaWduYXR1cmUgC3vWM_GpUdL92LThuar0gjiK27O2HO0JTxvhALKx6IQK
