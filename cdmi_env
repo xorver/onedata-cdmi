@@ -1,6 +1,6 @@
-export ENDPOINT=https://p-lab.onedata.org:8443
-export ENDPOINT2=https://p-cyfro.onedata.org:8443
-export SPACE_NAME=s1
-export SPACE_ID=s1
+export ENDPOINT=https://p-catania.onedata.indigo-datacloud.eu:8443
+export ENDPOINT2=https://p-infn.onedata.indigo-datacloud.eu:8443
+export SPACE_NAME=AstroDataMP
+export SPACE_ID=nOv6lP7-DAJJ3sgtK_P3XhIO4HKGbyY_TTSDoPlA9XI
 
 export TOKEN=MDAxNWxvY2F00aW9uIG9uZXpvbmUKMDAzYmlkZW500aWZpZXIgVUEzb3FuY3haMWVtaVYyVXkxRkxyZlJtUUR6SGVMRDA1RkhRaXJSZEItYwowMDFhY2lkIHRpbWUgPCAxNTA4NTA1MjY4CjAwMmZzaWduYXR1cmUgm01VyJJkDjZwNr6nC54nuy00hjKBC3BpaVBxGvSaz9wI4K
