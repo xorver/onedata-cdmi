@@ -3,4 +3,4 @@
 . ../cdmi_env
 
 curl -v -k --tlsv1.2 -Ss -H "X-Auth-Token: $TOKEN" -H 'content-type: application/json' \
-    -X POST "$ENDPOINT/api/v3/oneprovider/replicas/s1/cars"
+    -X POST "$ENDPOINT2/api/v3/oneprovider/replicas/s1/cars"
