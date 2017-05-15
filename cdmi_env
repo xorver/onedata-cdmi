@@ -1,4 +1,8 @@
-export ENDPOINT=https://p-lab.onedata.org:8443/cdmi
-export ENDPOINT2=https://p-cyfro.onedata.org:8443/cdmi
+export ENDPOINT=https://172.17.0.12:8443
+#export ENDPOINT=https://p-catania.onedata.indigo-datacloud.eu:8443
+export ENDPOINT2=https://p-infn.onedata.indigo-datacloud.eu:8443
+export SPACE_NAME=s1
+export SPACE_ID=s1
 
-export TOKEN=MDAxNWxvY2F0aW9uIG9uZXpvbmUKMDAzYmlkZW50aWZpZXIgRFJERVpHa3BBOUlsT1JzdEE2aVpHMm9TdmhiV0tPX3dSRElKeXllekJvdwowMDFhY2lkIHRpbWUgPCAxNDk1MTI4OTUxCjAwMmZzaWduYXR1cmUgC3vWM_GpUdL92LThuar0gjiK27O2HO0JTxvhALKx6IQK
+export TOKEN=\
+MDAxNWxvY2F00aW9uIG9uZXpvbmUKMDAzYmlkZW500aWZpZXIgX2VJcHZhcWs00ZGpDUjB1UTdYdHRVSjdnN3BfdjZaVWEwTnFtbkVqTnMxbwowMDFhY2lkIHRpbWUgPCAxNTEwNzU00NTIyCjAwMmZzaWduYXR1cmUgbOtoIKorUF4Rq9KuPGoWdgxE500EdnI3votYkQECSbjoK
