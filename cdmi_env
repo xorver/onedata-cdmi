@@ -1,8 +1,8 @@
-export ENDPOINT=https://172.17.0.12:8443
-#export ENDPOINT=https://p-catania.onedata.indigo-datacloud.eu:8443
+export ENDPOINT=https://p-cyfronet.onedata.indigo-datacloud.eu:8443
 export ENDPOINT2=https://p-infn.onedata.indigo-datacloud.eu:8443
-export SPACE_NAME=s1
-export SPACE_ID=s1
+export ENDPOINT3=https://p-lab.onedata.indigo-datacloud.eu:8443
+export SPACE_NAME=SharedSpace
+export SPACE_ID=_uIpFwN7S0bHYqPOBz_f8GXA5rsGhlCKQLNPIg_nRQ8
 
 export TOKEN=\
-MDAxNWxvY2F00aW9uIG9uZXpvbmUKMDAzYmlkZW500aWZpZXIgX2VJcHZhcWs00ZGpDUjB1UTdYdHRVSjdnN3BfdjZaVWEwTnFtbkVqTnMxbwowMDFhY2lkIHRpbWUgPCAxNTEwNzU00NTIyCjAwMmZzaWduYXR1cmUgbOtoIKorUF4Rq9KuPGoWdgxE500EdnI3votYkQECSbjoK
+MDAxNWxvY2F00aW9uIG9uZXpvbmUKMDAzYmlkZW500aWZpZXIgNGVuQ00JDN1NBVmQwcWJ00ZEJYSlp3c2VGZDVueEkzN1hSbXNaTXZVVVVuWQowMDFhY2lkIHRpbWUgPCAxNTI2Mzg1NjY1CjAwMmZzaWduYXR1cmUgSZAnmDf942H6Swd4N6TJ1cmWZspHorZtSs5edev8DMsK
